@@ -1,0 +1,243 @@
+Series Code,Series Name
+GC.AST.TOTL.CN,Net acquisition of financial assets (current LCU)
+GC.AST.TOTL.GD.ZS,Net acquisition of financial assets (% of GDP)
+GC.DOD.TOTL.CN,"Central government debt, total (current LCU)"
+GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)"
+GC.LBL.TOTL.CN,"Net incurrence of liabilities, total (current LCU)"
+GC.LBL.TOTL.GD.ZS,"Net incurrence of liabilities, total (% of GDP)"
+GC.NFN.TOTL.CN,Net investment in nonfinancial assets (current LCU)
+GC.NFN.TOTL.GD.ZS,Net investment in nonfinancial assets (% of GDP)
+GC.NLD.TOTL.CN,Net lending (+) / net borrowing (-) (current LCU)
+GC.NLD.TOTL.GD.ZS,Net lending (+) / net borrowing (-) (% of GDP)
+GC.REV.GOTR.CN,Grants and other revenue (current LCU)
+GC.REV.GOTR.ZS,Grants and other revenue (% of revenue)
+GC.REV.SOCL.CN,Social contributions (current LCU)
+GC.REV.SOCL.ZS,Social contributions (% of revenue)
+GC.REV.XGRT.CN,"Revenue, excluding grants (current LCU)"
+GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)"
+GC.TAX.EXPT.CN,Taxes on exports (current LCU)
+GC.TAX.EXPT.ZS,Taxes on exports (% of tax revenue)
+GC.TAX.GSRV.CN,Taxes on goods and services (current LCU)
+GC.TAX.GSRV.RV.ZS,Taxes on goods and services (% of revenue)
+GC.TAX.GSRV.VA.ZS,Taxes on goods and services (% value added of industry and services)
+GC.TAX.IMPT.CN,Customs and other import duties (current LCU)
+GC.TAX.IMPT.ZS,Customs and other import duties (% of tax revenue)
+GC.TAX.INTT.CN,Taxes on international trade (current LCU)
+GC.TAX.INTT.RV.ZS,Taxes on international trade (% of revenue)
+GC.TAX.OTHR.CN,Other taxes (current LCU)
+GC.TAX.OTHR.RV.ZS,Other taxes (% of revenue)
+GC.TAX.TOTL.CN,Tax revenue (current LCU)
+GC.TAX.TOTL.GD.ZS,Tax revenue (% of GDP)
+GC.TAX.YPKG.CN,"Taxes on income, profits and capital gains (current LCU)"
+GC.TAX.YPKG.RV.ZS,"Taxes on income, profits and capital gains (% of revenue)"
+GC.TAX.YPKG.ZS,"Taxes on income, profits and capital gains (% of total taxes)"
+GC.XPN.COMP.CN,Compensation of employees (current LCU)
+GC.XPN.COMP.ZS,Compensation of employees (% of expense)
+GC.XPN.GSRV.CN,Goods and services expense (current LCU)
+GC.XPN.GSRV.ZS,Goods and services expense (% of expense)
+GC.XPN.INTP.CN,Interest payments (current LCU)
+GC.XPN.INTP.RV.ZS,Interest payments (% of revenue)
+GC.XPN.INTP.ZS,Interest payments (% of expense)
+GC.XPN.OTHR.CN,Other expense (current LCU)
+GC.XPN.OTHR.ZS,Other expense (% of expense)
+GC.XPN.TOTL.CN,Expense (current LCU)
+GC.XPN.TOTL.GD.ZS,Expense (% of GDP)
+GC.XPN.TRFT.CN,Subsidies and other transfers (current LCU)
+GC.XPN.TRFT.ZS,Subsidies and other transfers (% of expense)
+IC.BUS.DFRN.XQ,Distance to frontier score (0=lowest performance to 100=frontier)
+IC.BUS.DISC.XQ,Business extent of disclosure index (0=less disclosure to 10=more disclosure)
+IC.BUS.EASE.XQ,Ease of doing business index (1=most business-friendly regulations)
+IC.BUS.NDNS.ZS,"New business density (new registrations per 1,000 people ages 15-64)"
+IC.BUS.NREG,New businesses registered (number)
+IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high)
+IC.CRD.PRVT.ZS,Private credit bureau coverage (% of adults)
+IC.CRD.PUBL.ZS,Public credit registry coverage (% of adults)
+IC.CUS.DURS.EX,Average time to clear exports through customs (days)
+IC.ELC.DURS,Delay in obtaining an electrical connection (days)
+IC.ELC.OUTG,Power outages in firms in a typical month (number)
+IC.ELC.TIME,Time required to get electricity (days)
+IC.EXP.COST.CD,Cost to export (US$ per container)
+IC.EXP.CSBC.CD,"Cost to export, border compliance (US$)"
+IC.EXP.CSDC.CD,"Cost to export, documentary compliance (US$)"
+IC.EXP.DOCS,Documents to export (number)
+IC.EXP.DURS,Time to export (days)
+IC.EXP.TMBC,"Time to export, border compliance (hours)"
+IC.EXP.TMDC,"Time to export, documentary compliance (hours)"
+IC.FRM.BKWC.ZS,Firms using banks to finance working capital (% of firms)
+IC.FRM.BNKS.ZS,Firms using banks to finance investment (% of firms)
+IC.FRM.BRIB.ZS,Bribery incidence (% of firms experiencing at least one bribe payment request)
+IC.FRM.CMPU.ZS,Firms competing against unregistered firms (% of firms)
+IC.FRM.CORR.ZS,Informal payments to public officials (% of firms)
+IC.FRM.CRIM.ZS,"Losses due to theft, robbery, vandalism, and arson (% sales)"
+IC.FRM.DURS,Time required to obtain an operating license (days)
+IC.FRM.FEMM.ZS,Firms with female top manager (% of firms)
+IC.FRM.FEMO.ZS,Firms with female participation in ownership (% of firms)
+IC.FRM.FREG.ZS,Firms formally registered when operations started (% of firms)
+IC.FRM.FREG.ZS,Firms that do not report all sales for tax purposes (% of firms)
+IC.FRM.OUTG.ZS,Value lost due to electrical outages (% of sales)
+IC.FRM.TRNG.ZS,Firms offering formal training (% of firms)
+IC.GOV.DURS.ZS,Time spent dealing with the requirements of government regulations (% of senior management time)
+IC.IMP.COST.CD,Cost to import (US$ per container)
+IC.IMP.CSBC.CD,"Cost to import, border compliance (US$)"
+IC.IMP.CSDC.CD,"Cost to import, documentary compliance (US$)"
+IC.IMP.DOCS,Documents to import (number)
+IC.IMP.DURS,Time to import (days)
+IC.IMP.TMBC,"Time to import, border compliance (hours)"
+IC.IMP.TMDC,"Time to import, documentary compliance (hours)"
+IC.ISV.DURS,Time to resolve insolvency (years)
+IC.LGL.CRED.XQ,Strength of legal rights index (0=weak to 12=strong)
+IC.LGL.DURS,Time required to enforce a contract (days)
+IC.PRP.DURS,Time required to register property (days)
+IC.PRP.PROC,Procedures to register property (number)
+IC.REG.COST.PC.FE.ZS,"Cost of business start-up procedures, female (% of GNI per capita)"
+IC.REG.COST.PC.MA.ZS,"Cost of business start-up procedures, male (% of GNI per capita)"
+IC.REG.COST.PC.ZS,Cost of business start-up procedures (% of GNI per capita)
+IC.REG.DURS,Time required to start a business (days)
+IC.REG.DURS.FE,"Time required to start a business, female (days)"
+IC.REG.DURS.MA,"Time required to start a business, male (days)"
+IC.REG.PROC,Start-up procedures to register a business (number)
+IC.REG.PROC.FE,"Start-up procedures to register a business, female (number)"
+IC.REG.PROC.MA,"Start-up procedures to register a business, male (number)"
+IC.TAX.DURS,Time to prepare and pay taxes (hours)
+IC.TAX.GIFT.ZS,Firms expected to give gifts in meetings with tax officials (% of firms)
+IC.TAX.LABR.CP.ZS,Labor tax and contributions (% of commercial profits)
+IC.TAX.METG,Number of visits or required meetings with tax officials
+IC.TAX.OTHR.CP.ZS,Other taxes payable by businesses (% of commercial profits)
+IC.TAX.PAYM,Tax payments (number)
+IC.TAX.PRFT.CP.ZS,Profit tax (% of commercial profits)
+IC.TAX.TOTL.CP.ZS,Total tax rate (% of commercial profits)
+IC.WRH.DURS,Time required to build a warehouse (days)
+IC.WRH.PROC,Procedures to build a warehouse (number)
+IE.PPI.ENGY.CD,Investment in energy with private participation (current US$)
+IE.PPI.TRAN.CD,Investment in transport with private participation (current US$)
+IE.PPI.WATR.CD,Investment in water and sanitation with private participation (current US$)
+IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high)
+IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high)
+IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high)
+IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high)
+IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high)
+IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high)
+IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high)
+IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high)
+IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high)
+IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high)
+IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high)
+IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high)
+IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high)
+IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high)
+IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high)
+IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high)
+IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high)
+IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high)
+IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high)
+IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high)
+IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)"
+IQ.SCI.MTHD,Methodology assessment of statistical capacity (scale 0 - 100)
+IQ.SCI.OVRL,Overall level of statistical capacity (scale 0 - 100)
+IQ.SCI.PRDC,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100)
+IQ.SCI.SRCE,Source data assessment of statistical capacity (scale 0 - 100)
+LP.EXP.DURS.MD,"Lead time to export, median case (days)"
+LP.IMP.DURS.MD,"Lead time to import, median case (days)"
+LP.LPI.CUST.XQ,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)
+LP.LPI.INFR.XQ,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high)
+LP.LPI.ITRN.XQ,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high)
+LP.LPI.LOGS.XQ,Logistics performance index: Competence and quality of logistics services (1=low to 5=high)
+LP.LPI.OVRL.XQ,Logistics performance index: Overall (1=low to 5=high)
+LP.LPI.TIME.XQ,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)
+LP.LPI.TRAC.XQ,Logistics performance index: Ability to track and trace consignments (1=low to 5=high)
+MS.MIL.MPRT.KD,Arms imports (SIPRI trend indicator values)
+MS.MIL.TOTL.P1,"Armed forces personnel, total"
+MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force)
+MS.MIL.XPND.CN,Military expenditure (current LCU)
+MS.MIL.XPND.GD.ZS,Military expenditure (% of GDP)
+MS.MIL.XPND.ZS,Military expenditure (% of central government expenditure)
+MS.MIL.XPRT.KD,Arms exports (SIPRI trend indicator values)
+ST.INT.ARVL,"International tourism, number of arrivals"
+ST.INT.DPRT,"International tourism, number of departures"
+ST.INT.RCPT.CD,"International tourism, receipts (current US$)"
+ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)"
+ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)"
+ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)"
+ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)"
+ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)"
+ST.INT.XPND.CD,"International tourism, expenditures (current US$)"
+ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)"
+TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP)
+TM.QTY.MRCH.XD.WD,Import volume index (2000 = 100)
+TM.TAX.MANF.BC.ZS,"Binding coverage, manufactured products (%)"
+TM.TAX.MANF.BR.ZS,"Bound rate, simple mean, manufactured products (%)"
+TM.TAX.MANF.IP.ZS,"Share of tariff lines with international peaks, manufactured products (%)"
+TM.TAX.MANF.SM.AR.ZS,"Tariff rate, applied, simple mean, manufactured products (%)"
+TM.TAX.MANF.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, manufactured products (%)"
+TM.TAX.MANF.SR.ZS,"Share of tariff lines with specific rates, manufactured products (%)"
+TM.TAX.MANF.WM.AR.ZS,"Tariff rate, applied, weighted mean, manufactured products (%)"
+TM.TAX.MANF.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, manufactured products (%)"
+TM.TAX.MRCH.BC.ZS,"Binding coverage, all products (%)"
+TM.TAX.MRCH.BR.ZS,"Bound rate, simple mean, all products (%)"
+TM.TAX.MRCH.IP.ZS,"Share of tariff lines with international peaks, all products (%)"
+TM.TAX.MRCH.SM.AR.ZS,"Tariff rate, applied, simple mean, all products (%)"
+TM.TAX.MRCH.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, all products (%)"
+TM.TAX.MRCH.SR.ZS,"Share of tariff lines with specific rates, all products (%)"
+TM.TAX.MRCH.WM.AR.ZS,"Tariff rate, applied, weighted mean, all products (%)"
+TM.TAX.MRCH.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, all products (%)"
+TM.TAX.TCOM.BC.ZS,"Binding coverage, primary products (%)"
+TM.TAX.TCOM.BR.ZS,"Bound rate, simple mean, primary products (%)"
+TM.TAX.TCOM.IP.ZS,"Share of tariff lines with international peaks, primary products (%)"
+TM.TAX.TCOM.SM.AR.ZS,"Tariff rate, applied, simple mean, primary products (%)"
+TM.TAX.TCOM.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, primary products (%)"
+TM.TAX.TCOM.SR.ZS,"Share of tariff lines with specific rates, primary products (%)"
+TM.TAX.TCOM.WM.AR.ZS,"Tariff rate, applied, weighted mean, primary products (%)"
+TM.TAX.TCOM.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, primary products (%)"
+TM.VAL.AGRI.ZS.UN,Agricultural raw materials imports (% of merchandise imports)
+TM.VAL.FOOD.ZS.UN,Food imports (% of merchandise imports)
+TM.VAL.FUEL.ZS.UN,Fuel imports (% of merchandise imports)
+TM.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service imports)
+TM.VAL.MANF.ZS.UN,Manufactures imports (% of merchandise imports)
+TM.VAL.MMTL.ZS.UN,Ores and metals imports (% of merchandise imports)
+TM.VAL.MRCH.AL.ZS,Merchandise imports from economies in the Arab World (% of total merchandise imports)
+TM.VAL.MRCH.CD.WT,Merchandise imports (current US$)
+TM.VAL.MRCH.HI.ZS,Merchandise imports from high-income economies (% of total merchandise imports)
+TM.VAL.MRCH.OR.ZS,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)
+TM.VAL.MRCH.R1.ZS,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)
+TM.VAL.MRCH.R2.ZS,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports)
+TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)
+TM.VAL.MRCH.R4.ZS,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)
+TM.VAL.MRCH.R5.ZS,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)
+TM.VAL.MRCH.R6.ZS,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)
+TM.VAL.MRCH.RS.ZS,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)"
+TM.VAL.MRCH.WL.CD,Merchandise imports by the reporting economy (current US$)
+TM.VAL.MRCH.WR.ZS,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)
+TM.VAL.MRCH.XD.WD,Import value index (2000 = 100)
+TM.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service imports)"
+TM.VAL.SERV.CD.WT,Commercial service imports (current US$)
+TM.VAL.TRAN.ZS.WT,Transport services (% of commercial service imports)
+TM.VAL.TRVL.ZS.WT,Travel services (% of commercial service imports)
+TT.PRI.MRCH.XD.WD,Net barter terms of trade index (2000 = 100)
+TX.QTY.MRCH.XD.WD,Export volume index (2000 = 100)
+TX.VAL.AGRI.ZS.UN,Agricultural raw materials exports (% of merchandise exports)
+TX.VAL.FOOD.ZS.UN,Food exports (% of merchandise exports)
+TX.VAL.FUEL.ZS.UN,Fuel exports (% of merchandise exports)
+TX.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service exports)
+TX.VAL.MANF.ZS.UN,Manufactures exports (% of merchandise exports)
+TX.VAL.MMTL.ZS.UN,Ores and metals exports (% of merchandise exports)
+TX.VAL.MRCH.AL.ZS,Merchandise exports to economies in the Arab World (% of total merchandise exports)
+TX.VAL.MRCH.CD.WT,Merchandise exports (current US$)
+TX.VAL.MRCH.HI.ZS,Merchandise exports to high-income economies (% of total merchandise exports)
+TX.VAL.MRCH.OR.ZS,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)
+TX.VAL.MRCH.R1.ZS,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)
+TX.VAL.MRCH.R2.ZS,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports)
+TX.VAL.MRCH.R3.ZS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)
+TX.VAL.MRCH.R4.ZS,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)
+TX.VAL.MRCH.R5.ZS,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)
+TX.VAL.MRCH.R6.ZS,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)
+TX.VAL.MRCH.RS.ZS,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)"
+TX.VAL.MRCH.WL.CD,Merchandise exports by the reporting economy (current US$)
+TX.VAL.MRCH.WR.ZS,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)
+TX.VAL.MRCH.XD.WD,Export value index (2000 = 100)
+TX.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service exports)"
+TX.VAL.SERV.CD.WT,Commercial service exports (current US$)
+TX.VAL.TRAN.ZS.WT,Transport services (% of commercial service exports)
+TX.VAL.TRVL.ZS.WT,Travel services (% of commercial service exports)
+VC.BTL.DETH,Battle-related deaths (number of people)
+VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)"
+VC.PKP.TOTL.UN,"Presence of peace keepers (number of troops, police, and military observers in mandate)"
